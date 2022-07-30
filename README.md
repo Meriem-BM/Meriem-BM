@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **other projects**
 
-- 🤝 I’m looking forward to explore **frontend dev more**
+- 🤝 I’m looking forward to explore **Frontend Dev**
 
 - 💬 Ask me about **node.js, GraphQL, Nginx, and Docker**
 
