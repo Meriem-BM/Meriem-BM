@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Mvault](https://github.com/mvault)
 
-- 🌱 I’m currently learning **data structure, tasks automation, Devops & machine learning**
+- 🌱 I’m currently learning **data structure, IT automation, & Devops**
 
 - 👯 I’m looking to collaborate on **other projects**
-
-- 🤝 I’m looking forward to explore **Frontend Dev**
 
 - 💬 Ask me about **node.js, GraphQL, Nginx, and Docker**
 
