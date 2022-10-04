@@ -7,9 +7,7 @@
 
 - 👯 I’m looking to collaborate on **other projects**
 
-- 💬 Ask me about **node.js, GraphQL, Nginx, and Docker**
-
-- 📫 How to reach me **barhoumi.meriem1@gmail.com**
+- 📫 Reach me via my email **barhoumi.meriem1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
