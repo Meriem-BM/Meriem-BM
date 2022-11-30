@@ -1,5 +1,5 @@
-<h1 align="center">Salam 🖐🏻, I'm Meriem</h1>
-<h3 align="center">A passionate backend developer ✨ </h3>
+<h1 align="center">Hi there!</h1>
+<h3 align="center">Meriem, a passionate backend developer ✨ </h3>
 
 - 🔭 I’m currently working on [Mvault](https://github.com/mvault)
 
