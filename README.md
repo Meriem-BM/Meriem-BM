@@ -1,13 +1,13 @@
 <h1 align="center">Hi there!</h1>
 <h3 align="center">Meriem, a passionate backend developer ✨ </h3>
 
-- 🔭 I’m currently working on [Mvault](https://github.com/mvault)
+- Currently working on [Mvault](https://github.com/mvault)
 
-- 🌱 I’m currently learning **data structure, IT automation, & Devops**
+- Learning **data structure, IT automation, & Devops**
 
-- 👯 I’m looking to collaborate on **other projects**
+- Seeking new collaborations
 
-- 📫 Reach me via my email **barhoumi.meriem1@gmail.com**
+- Feel free to contact me at **barhoumi.meriem1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +19,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> &nbsp
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/> </a> &nbsp
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30" height="30"/> </a> &nbsp
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> &nbsp
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> &nbsp
