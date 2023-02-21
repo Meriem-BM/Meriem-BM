@@ -1,10 +1,6 @@
 <h1 align="center">Hi there!</h1>
 <h3 align="center">Meriem, a passionate backend developer ✨ </h3>
 
-- Currently working on personal projects
-
-- Learning **data structure, IT automation, & Devops**
-
 - Seeking new collaborations
 
 - Feel free to contact me at **barhoumi.meriem1@gmail.com**
