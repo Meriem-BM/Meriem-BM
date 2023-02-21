@@ -1,17 +1,6 @@
 <h1 align="center">Hi there!</h1>
 <h3 align="center">Meriem, a passionate backend developer ✨ </h3>
 
-- Seeking new collaborations
-
-- Feel free to contact me at **barhoumi.meriem1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/barhoumi_meriem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barhoumi_meriem" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/meriem-barhoumi-5ab0b8168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meriem-barhoumi-5ab0b8168" height="20" width="30" /></a>
-<a href="https://stackoverflow.com/users/16957079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16957079" height="20" width="30" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> &nbsp
