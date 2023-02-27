@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!</h1>
-<h3 align="center">Meriem, a passionate backend developer ✨ </h3>
+<h3 align="center">Meriem, a passionate backend developer ✨ </h3><br/><br/><br/><br/><br/>
 
-<h3 align="center">Languages, Tools & Interests</h3><br/><br/><br/>
+<h3 align="center">Languages, Tools & Interests</h3><br/><br/>
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> &nbsp
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30" height="30"/> </a> &nbsp
