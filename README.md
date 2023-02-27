@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!</h1>
-<h3 align="center">Meriem, a passionate backend developer ✨ </h3><br/><br/><br/><br/><br/>
+<h3 align="center">Meriem, a passionate backend developer ✨ </h3><br/><br/><br/>
 
 <h3 align="center">Languages, Tools & Interests</h3><br/><br/>
 <p align="left"> 
