@@ -26,10 +26,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> &nbsp
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/> </a> &nbsp
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a> &nbsp
-<!-- <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="30" height="30"/> </a> &nbsp -->
-<!-- <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://assets.stickpng.com/images/62a765b6bd73a4af5c5d4fbb.png" alt="jestjs" width="30" height="30"/> </a> &nbsp  -->
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> &nbsp
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwindcss" width="30" height="30"/> </a> &nbsp
 <a href="https://pinia.vuejs.org" target="_blank" rel="noreferrer"> <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="30" height="30"/> </a> &nbsp
 <a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://v2.vuejs.org/images/logo.svg" alt="vuejs" width="30" height="30"/> </a> &nbsp
 </p>
